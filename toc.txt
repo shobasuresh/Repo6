@@ -6,3 +6,5 @@ Mysql
 
 Java
 Hibernate
+
+Tentative topics
