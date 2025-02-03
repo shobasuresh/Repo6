@@ -2,3 +2,5 @@ welcome
 
 DBMS
 Mysql
+
+Done with minor version
