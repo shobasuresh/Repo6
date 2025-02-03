@@ -3,4 +3,12 @@ welcome
 DBMS
 Mysql
 
+ 
+done here
+Java
+Hibernate
+
+Tentative topics
+ 
 Done with minor version
+  
